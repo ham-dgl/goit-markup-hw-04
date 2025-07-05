@@ -58,13 +58,7 @@ img {
 	color: #404bbf;
 	position: relative;
 }
-.site-nav:hover {
-	color: #404bbf;
-}
-.site-nav:focus {
-	color: #404bbf;
-}
-.site-nav::after {
+.navigation-first-item::after {
 	content: '';
 	width: 100%;
 	position: absolute;
@@ -74,6 +68,13 @@ img {
 	background-color: #404bbf;
 	border-radius: 2px;
 	transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.site-nav:hover {
+	color: #404bbf;
+}
+.site-nav:focus {
+	color: #404bbf;
 }
 .address {
 	font-weight: 400;
