@@ -46,13 +46,15 @@ img {
 .logo span {
 	color: #2e2f42;
 }
+.header-first-item {
+	position: relative;
+}
 .site-nav {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	padding: 24px 0;
-	position: relative;
 }
 .site-nav:hover {
 	color: #404bbf;
