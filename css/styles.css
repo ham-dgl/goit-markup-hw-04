@@ -164,10 +164,6 @@ img {
 	border: 1px solid #8e8f99;
 	margin-bottom: 8px;
 }
-.features-container svg {
-	width: 64px;
-	height: 64px;
-}
 .visually-hidden {
 	position: absolute;
 	width: 1px;
