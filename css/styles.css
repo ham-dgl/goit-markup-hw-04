@@ -321,7 +321,6 @@ ul {
 }
 
 .portfolio-item:hover .portfolio-overlay-text {
-
 	transform: translateY(0%);
 }
 .portfolio-info {
@@ -350,6 +349,7 @@ li {
 .footer {
 	background-color: #2E2F42;
 	padding: 100px 0;
+	display: flex;
 }
 .footer-logo {
 	font-family: "Raleway", sans-serif;
@@ -372,3 +372,4 @@ li {
 	color: #F4F4FD;
 	max-width: 264px;
 }
+.c
