@@ -269,6 +269,9 @@ ul {
 .media-item a:focus {
 	background-color: #404bbf;
 }
+.media-svg {
+	fill: #f4f4fd;
+}
 .portfolio {
 	background-color: #FFFFFF;
 	padding-top: 120px;
